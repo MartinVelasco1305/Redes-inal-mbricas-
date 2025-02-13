@@ -1,4 +1,4 @@
-# Redes-inalambricas-
+# Redes inalambricas-
 Tecnologías:
 
 Las redes inalámbricas son de un tiempo para acá, la forma en que nos vinculamos con la tecnología y han permitido desarrollar la comunicación tal como la conocemos ahora. Al respecto podemos decir que:
