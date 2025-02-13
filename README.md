@@ -7,10 +7,10 @@ Las redes inalámbricas son de un tiempo para acá, la forma en que nos vinculam
 
 * Bluetooth: A pesar de sus limitaciones, Bluetooth es esencial para la conexión de dispositivos como auriculares, teclados, mouse entre otros.
 
-*5G y 4G: Se trata de tecnologías de red celular que están cambiando la conectividad a global. Se dice que la tecnología 5G puede lograr velocidades mucho más rápidas y menor latencia que 4G, apalancando así nuevas aplicaciones
+* 5G y 4G: Se trata de tecnologías de red celular que están cambiando la conectividad a global. Se dice que la tecnología 5G puede lograr velocidades mucho más rápidas y menor latencia que 4G, apalancando así nuevas aplicaciones
 como la realidad aumentada, vehículos autónomos y el Internet de las Cosas.
 
-*Zigbee y LoRa: Son tecnologías para la comunicación de bajo consumo energético, útiles en aplicaciones de IoT, como sensores y otros dispositivos inteligentes.
+* Zigbee y LoRa: Son tecnologías para la comunicación de bajo consumo energético, útiles en aplicaciones de IoT, como sensores y otros dispositivos inteligentes.
 
 
 La seguridad
