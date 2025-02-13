@@ -23,7 +23,7 @@ Respecto a los Protocolos como WPA3 (Wi-Fi Protected Access 3) se están utiliza
 El Internet de las Cosas
 Las redes inalámbricas son esenciales para el funcionamiento de dispositivos IoT, que van desde termostatos inteligentes hasta sistemas de monitoreo de salud. Estos dispositivos se comunican de manera inalámbrica, generalmente utilizando tecnologías como Wi-Fi y Zigbee entre otras.
 
-El Edge Computing y la inteligencia artificial recién comienzan a jugar un papel importante en redes IoT, debido al procesamiento de datos localmente, mejorando la eficiencia y reduciendo la latencia.
+El Edge Computing y la IA recién comienzan a jugar un papel importante en redes IoT, debido al procesamiento de datos localmente, mejorando la eficiencia y reduciendo la latencia.
 
 Redes 5G y su Impacto
 El 5G no solo ofrece una mayor velocidad, sino también una latencia muy baja, lo que es esencial para aplicaciones en tiempo real, como la conducción autónoma y las videollamadas con una alta definición.
